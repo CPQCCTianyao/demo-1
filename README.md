@@ -18,6 +18,7 @@ git py course project
 - Chicken
 - Lambs
 - Ducks
+- Foxes are like ginger colored dogs!
 >>>>>>> d708a37 (initial commit)
 =======
 # demo-1
